@@ -11,7 +11,7 @@
 
 <br />
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rizky878/rzky-multidevice)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rainersans/Crizzy-Bot)
 
 | Build Pack  | Link                                                                  |
 | ----------- | --------------------------------------------------------------------- |
